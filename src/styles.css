@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.Win {
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.Loose {
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
